@@ -20,7 +20,7 @@ And at the last,  we have the robot.cpp file where 3 publishers and subscribers 
 ## INSTRUCTIONS TO RUN THE CODE
 Step 1 : Open the terminal and go to src of your ROS workspace and clone the package
 
-<pre><code>https://github.com/santhoshsanty308/Rt1.git</code></pre>
+<pre><code>https://github.com/santhoshsanty308/rt1-3rd-assingment.git</code></pre>
 
 Step 2 : Now to build your clonned code run the command - 
 
